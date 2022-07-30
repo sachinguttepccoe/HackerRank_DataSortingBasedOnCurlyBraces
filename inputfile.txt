@@ -1,0 +1,33 @@
+{
+    Money Heist Info
+    {
+        The most important character is the Professor
+    }
+    {
+        Another character is that of Berlin
+        {
+            Berlin is in charge of the money heist
+        }
+    }
+    {
+        Another character is that of Moscow
+        {
+            Moscow is Denver's dad
+        }
+    }
+    {
+        Another character is that of Rio
+        {
+            Rio is a programmer
+            {
+                Rio is also a decent hacker
+                {
+                    Rio is quite happy to be a part of the heist
+                }
+            }
+        }
+    }
+    {
+        Another character is that of Denver
+    }
+}::3
